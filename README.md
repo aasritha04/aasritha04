@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **kolliparaaasrithasai04@gmail.com**
 
+- 📄 Know about my experiences [https://aasritha-resume.tiiny.site](https://aasritha-resume.tiiny.site)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aasritha sai kollipara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aasritha sai kollipara" height="30" width="40" /></a>

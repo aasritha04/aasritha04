@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aasritha Sai Kollipara</h1>
 <h3 align="center">A Computer Science Student | Passionate Coder | Java Enthusiast</h3>
 
-- 🔭 I’m very interested in **Debugging**
+- 🔭 I’m very much interested in **Problem Solving and Debugging**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms using Java**
 

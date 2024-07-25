@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kolliparaaasrithasai04@gmail.com**
 
-- 📄 Know about my experiences [https://aasritha-resume.tiiny.site](https://aasritha-resume.tiiny.site)
+- 📄 Know about my experiences [https://aasritha-sai-resume.tiiny.site](https://aasritha-sai-resume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
